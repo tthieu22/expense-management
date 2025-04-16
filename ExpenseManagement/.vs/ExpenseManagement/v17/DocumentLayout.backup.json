@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n T\u1ED1t Nghi\u1EC7p\\DTC2054802010226 - TR\u1EA6N TR\u1ECCNG HI\u1EBEU - CNTTK19P\\CH\u01AF\u01A0NG TR\u00CCNH\\ExpenseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4A0D78-2155-486F-9A58-BB9098946B5D}|ExpenseManagement\\ExpenseManagement.csproj|d:\\\u0111\u1ED3 \u00E1n t\u1ED1t nghi\u1EC7p\\dtc2054802010226 - tr\u1EA7n tr\u1ECDng hi\u1EBFu - cnttk19p\\ch\u01B0\u01A1ng tr\u00ECnh\\expensemanagement\\expensemanagement\\views\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F4A0D78-2155-486F-9A58-BB9098946B5D}|ExpenseManagement\\ExpenseManagement.csproj|solutionrelative:expensemanagement\\views\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n T\u1ED1t Nghi\u1EC7p\\DTC2054802010226 - TR\u1EA6N TR\u1ECCNG HI\u1EBEU - CNTTK19P\\CH\u01AF\u01A0NG TR\u00CCNH\\ExpenseManagement\\ExpenseManagement\\Views\\Home.cs",
+              "RelativeDocumentMoniker": "ExpenseManagement\\Views\\Home.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n T\u1ED1t Nghi\u1EC7p\\DTC2054802010226 - TR\u1EA6N TR\u1ECCNG HI\u1EBEU - CNTTK19P\\CH\u01AF\u01A0NG TR\u00CCNH\\ExpenseManagement\\ExpenseManagement\\Views\\Home.cs [Design]",
+              "RelativeToolTip": "ExpenseManagement\\Views\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:26:04.305Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
